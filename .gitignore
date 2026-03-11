@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+google_credentials.json
+token.json
+oncall.json
+acl.json
